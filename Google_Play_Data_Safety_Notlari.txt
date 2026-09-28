@@ -1,0 +1,26 @@
+JELIXORA - GOOGLE PLAY DATA SAFETY NOTLARI
+Son güncelleme: 28 Eylül 2026
+
+Uygulama: JeliXora
+Paket: com.victoriumsoft.jeliXora
+
+MEVCUT SÜRÜM İÇİN:
+- Kullanıcı hesabı: Yok
+- Kişisel veri toplama: Yok
+- Konum: Yok
+- Kamera: Yok
+- Mikrofon: Yok
+- Kişiler: Yok
+- Sağlık verisi: Yok
+- Finansal bilgi: Yok
+- Mesajlar/e-posta: Yok
+- Fotoğraf/video yükleme: Yok
+- Analiz SDK'sı: Aktif değil
+- Reklam SDK'sı: Aktif değil
+- Oyun ilerlemesi: Cihazda yerel saklanır
+- Dil/ses/erişilebilirlik ayarları: Cihazda yerel saklanır
+- Hesap silme: Hesap sistemi olmadığı için uygulanmaz
+- Yerel veriler: Reset Save / uygulama verisini temizleme / uygulamayı kaldırma ile silinebilir
+
+DİKKAT:
+AdMob, Firebase Analytics, Crashlytics, Play Games, bulut kayıt veya başka bir üçüncü taraf SDK eklersen Data Safety formu ve Gizlilik Politikası yeniden güncellenmelidir.
